@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 0.5,
+  "f1": 0.66667,
+  "numAT": 97,
+  "numAT_avg": 48.5,
+  "time": 2481600,
+  "pendingSchemaProportion": 0.755,
+  "start time": "2025-04-23 13:48:33",
+  "method": "FIC",
+  "subject": "bugs\\bash\\execute_cmd.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 0.50000, \"f1\": 0.66667, \"numAT\": 97, \"numAT_avg\": 48.50000, \"time\": 2481600, \"pendingSchemaProportion\": 0.75500}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

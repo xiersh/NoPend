@@ -1,0 +1,5 @@
+parameter,name
+0,CONFIG_COMPAT
+1,IP_SCTP
+2,SCTP_DBG_MSG
+3,IPV6

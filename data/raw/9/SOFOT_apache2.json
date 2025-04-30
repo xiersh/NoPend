@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 30,
+  "numAT_avg": 30.0,
+  "time": 676300,
+  "pendingSchemaProportion": 0.483,
+  "start time": "2025-04-23 15:10:26",
+  "method": "SOFOT",
+  "subject": "bugs\\apache\\os\\unix\\unixd.c",
+  "max_mfs": 1,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 30, \"numAT_avg\": 30.00000, \"time\": 676300, \"pendingSchemaProportion\": 0.48300}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

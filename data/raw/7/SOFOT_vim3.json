@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 615,
+  "numAT_avg": 123.0,
+  "time": 6655300,
+  "pendingSchemaProportion": 0.393,
+  "start time": "2025-04-23 14:16:08",
+  "method": "SOFOT",
+  "subject": "bugs\\vim\\src\\os_unix.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 615, \"numAT_avg\": 123.00000, \"time\": 6655300, \"pendingSchemaProportion\": 0.39300}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

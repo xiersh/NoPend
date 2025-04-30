@@ -1,0 +1,14 @@
+parameter,name
+0,DJGPP
+1,WIN32
+2,GP_STRING_VARS
+3,_Windows
+4,DOS386
+5,E_MINEXP
+6,NeXT
+7,__EMX__
+8,ultrix
+9,lint
+10,APOLLO
+11,MSDOS
+12,DOSX286

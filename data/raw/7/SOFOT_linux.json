@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 665,
+  "numAT_avg": 16.625,
+  "time": 2442500,
+  "pendingSchemaProportion": 0.25923,
+  "start time": "2025-04-23 14:16:08",
+  "method": "SOFOT",
+  "subject": "bugs\\linux\\init\\main.c",
+  "max_mfs": 5,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 665, \"numAT_avg\": 16.62500, \"time\": 2442500, \"pendingSchemaProportion\": 0.25923}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

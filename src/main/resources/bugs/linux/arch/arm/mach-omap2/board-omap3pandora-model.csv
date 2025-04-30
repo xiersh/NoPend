@@ -1,0 +1,4 @@
+parameter,name
+0,PM
+1,ARCH_OPAM3
+2,CONFIG_OMAP_MUX

@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 84,
+  "numAT_avg": 42.0,
+  "time": 1264000,
+  "pendingSchemaProportion": 0.1225,
+  "start time": "2025-04-23 13:24:33",
+  "method": "SOFOT",
+  "subject": "bugs\\gnuplot\\src\\plot.c",
+  "max_mfs": 3,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 84, \"numAT_avg\": 42.00000, \"time\": 1264000, \"pendingSchemaProportion\": 0.12250}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

@@ -1,0 +1,5 @@
+parameter,name
+0,I2C
+1,IRQ_DOMAIN
+2,TWL4030_CORE
+3,OF_IRQ

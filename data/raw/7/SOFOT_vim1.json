@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 84,
+  "numAT_avg": 21.0,
+  "time": 1299600,
+  "pendingSchemaProportion": 0.06425,
+  "start time": "2025-04-23 14:16:08",
+  "method": "SOFOT",
+  "subject": "bugs\\vim\\src\\netbeans.c",
+  "max_mfs": 4,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 84, \"numAT_avg\": 21.00000, \"time\": 1299600, \"pendingSchemaProportion\": 0.06425}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

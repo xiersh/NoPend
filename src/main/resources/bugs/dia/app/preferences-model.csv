@@ -1,0 +1,6 @@
+parameter,name
+0,HAVE_UNISTD_H
+1,offsetof
+2,SCROLLED_PAGES
+3,HAVE_STDDEF_H
+4,G_OS_WIN32

@@ -1,0 +1,7 @@
+{
+  "method": "TRT",
+  "subject": "bugs\\bash\\execute_cmd.c",
+  "max_mfs": 2,
+  "status": "error",
+  "error": "Error running experiment: null\njava.lang.reflect.InvocationTargetException\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74)\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)\n\tat nju.gist.FaultResolver.FaultResolverFactory.createResolver(FaultResolverFactory.java:25)\n\tat nju.gist.Experiment.FaultLocalization.<init>(FaultLocalization.java:69)\n\tat nju.gist.Main.runExperiment(Main.java:74)\n\tat nju.gist.Main.main(Main.java:53)\nCaused by: java.lang.UnsupportedOperationException: BitSet getLogicSize exceeds maximum supported getLogicSize\n\tat nju.gist.FaultResolver.NoPend.TRTFaultResolver.<init>(TRTFaultResolver.java:20)\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)\n\t... 6 more\n"
+}

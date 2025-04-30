@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 5,
+  "numAT_avg": 5.0,
+  "time": 1304600,
+  "pendingSchemaProportion": 0.0,
+  "start time": "2025-04-23 13:00:07",
+  "method": "NoPend",
+  "subject": "bugs\\dia\\lib\\prop_text.c",
+  "max_mfs": 1,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 5, \"numAT_avg\": 5.00000, \"time\": 1304600, \"pendingSchemaProportion\": 0.00000}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

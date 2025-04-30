@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 88,
+  "numAT_avg": 44.0,
+  "time": 2179700,
+  "pendingSchemaProportion": 0.8715,
+  "start time": "2025-04-23 15:10:28",
+  "method": "FIC",
+  "subject": "bugs\\gnuplot\\src\\plot.c",
+  "max_mfs": 3,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 88, \"numAT_avg\": 44.00000, \"time\": 2179700, \"pendingSchemaProportion\": 0.87150}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

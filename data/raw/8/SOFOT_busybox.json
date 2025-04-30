@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 30,
+  "numAT_avg": 10.0,
+  "time": 341200,
+  "pendingSchemaProportion": 0.01,
+  "start time": "2025-04-23 14:43:21",
+  "method": "SOFOT",
+  "subject": "bugs\\busybox\\networking\\ftpd.c",
+  "max_mfs": 6,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 30, \"numAT_avg\": 10.00000, \"time\": 341200, \"pendingSchemaProportion\": 0.01000}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

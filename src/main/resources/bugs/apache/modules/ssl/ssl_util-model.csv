@@ -1,0 +1,4 @@
+parameter,name
+0,APR_HAS_THREADS
+1,SSLC_VERSION_NUMBER
+2,__MVS__

@@ -1,0 +1,4 @@
+parameter,name
+0,CONFIG_XFRM
+1,CONFIG_PROC_FS
+2,HIGHMEM

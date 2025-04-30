@@ -1,0 +1,5 @@
+parameter,name
+0,_MSC_VER
+1,HAVE_LIBCRYPTO
+2,HAVE_LIBGCRYPT
+3,_WIN32

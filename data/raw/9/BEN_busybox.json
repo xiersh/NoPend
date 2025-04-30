@@ -1,0 +1,17 @@
+{
+  "precision": 0.01587,
+  "recall": 1.0,
+  "f1": 0.03125,
+  "numAT": 26,
+  "numAT_avg": 8.66667,
+  "time": 73212300,
+  "start time": "2025-04-23 15:10:32",
+  "method": "BEN",
+  "subject": "bugs\\busybox\\networking\\ftpd.c",
+  "max_mfs": 6,
+  "status": "success",
+  "stdout": "{\"precision\": 0.01587, \"recall\": 1.00000, \"f1\": 0.03125, \"numAT\": 26, \"numAT_avg\": 8.66667, \"time\": 73212300}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

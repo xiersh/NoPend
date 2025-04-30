@@ -1,0 +1,6 @@
+parameter,name
+0,KGDB
+1,XMON
+2,CONFIG_PPC64
+3,BDI_SWITCH
+4,KPROBES

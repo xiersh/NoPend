@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 245,
+  "numAT_avg": 6.125,
+  "time": 14155300,
+  "pendingSchemaProportion": 0.0,
+  "start time": "2025-04-23 15:10:24",
+  "method": "NoPend",
+  "subject": "bugs\\linux\\init\\main.c",
+  "max_mfs": 5,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 245, \"numAT_avg\": 6.12500, \"time\": 14155300, \"pendingSchemaProportion\": 0.00000}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

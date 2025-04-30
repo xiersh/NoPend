@@ -1,0 +1,18 @@
+{
+  "precision": 0.66667,
+  "recall": 0.66667,
+  "f1": 0.66667,
+  "numAT": 1038,
+  "numAT_avg": 207.6,
+  "time": 14262200,
+  "pendingSchemaProportion": 0.3934,
+  "start time": "2025-04-23 13:48:32",
+  "method": "SOFOT",
+  "subject": "bugs\\xterm\\main.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 0.66667, \"recall\": 0.66667, \"f1\": 0.66667, \"numAT\": 1038, \"numAT_avg\": 207.60000, \"time\": 14262200, \"pendingSchemaProportion\": 0.39340}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

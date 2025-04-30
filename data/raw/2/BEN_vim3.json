@@ -1,0 +1,17 @@
+{
+  "precision": 0.33333,
+  "recall": 1.0,
+  "f1": 0.5,
+  "numAT": 1791,
+  "numAT_avg": 358.2,
+  "time": 26830642400,
+  "start time": "2025-04-23 12:12:51",
+  "method": "BEN",
+  "subject": "bugs\\vim\\src\\os_unix.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 0.33333, \"recall\": 1.00000, \"f1\": 0.50000, \"numAT\": 1791, \"numAT_avg\": 358.20000, \"time\": 26830642400}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

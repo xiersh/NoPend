@@ -1,0 +1,17 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 142,
+  "numAT_avg": 142.0,
+  "time": 63361600,
+  "start time": "2025-04-23 11:22:13",
+  "method": "BEN",
+  "subject": "bugs\\bash\\support\\getcppsyms.c",
+  "max_mfs": 1,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 142, \"numAT_avg\": 142.00000, \"time\": 63361600}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

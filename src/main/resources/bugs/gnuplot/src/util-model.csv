@@ -1,0 +1,7 @@
+parameter,name
+0,_LIBC
+1,VA_START
+2,ANSI_C
+3,lint
+4,VMS
+5,HAVE_VFPRINTF

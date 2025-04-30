@@ -1,0 +1,6 @@
+{
+  "status": "timeout",
+  "method": "IterAIFL",
+  "subject": "bugs\\bash\\support\\getcppsyms.c",
+  "timeout": true
+}

@@ -1,0 +1,6 @@
+{
+  "status": "timeout",
+  "method": "ComFIL",
+  "subject": "bugs\\xterm\\main.c",
+  "timeout": true
+}

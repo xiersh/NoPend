@@ -1,0 +1,17 @@
+{
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1": 0.57143,
+  "numAT": 24,
+  "numAT_avg": 12.0,
+  "time": 37915600,
+  "start time": "2025-04-23 12:34:37",
+  "method": "BEN",
+  "subject": "bugs\\apache\\modules\\slotmem\\mod_slotmem_shm.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 0.40000, \"recall\": 1.00000, \"f1\": 0.57143, \"numAT\": 24, \"numAT_avg\": 12.00000, \"time\": 37915600}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

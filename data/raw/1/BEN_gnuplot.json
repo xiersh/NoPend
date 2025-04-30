@@ -1,0 +1,17 @@
+{
+  "precision": 0.14286,
+  "recall": 1.0,
+  "f1": 0.25,
+  "numAT": 103,
+  "numAT_avg": 51.5,
+  "time": 2746574400,
+  "start time": "2025-04-23 11:46:28",
+  "method": "BEN",
+  "subject": "bugs\\gnuplot\\src\\plot.c",
+  "max_mfs": 3,
+  "status": "success",
+  "stdout": "{\"precision\": 0.14286, \"recall\": 1.00000, \"f1\": 0.25000, \"numAT\": 103, \"numAT_avg\": 51.50000, \"time\": 2746574400}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

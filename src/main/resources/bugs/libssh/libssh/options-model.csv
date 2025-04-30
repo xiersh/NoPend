@@ -1,0 +1,5 @@
+parameter,name
+0,_WIN32
+1,WITH_SERVER
+2,_MSC_VER
+3,WITH_SSH1

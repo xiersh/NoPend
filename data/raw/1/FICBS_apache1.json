@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 16,
+  "numAT_avg": 8.0,
+  "time": 721700,
+  "pendingSchemaProportion": 0.6895,
+  "start time": "2025-04-23 11:44:26",
+  "method": "FICBS",
+  "subject": "bugs\\apache\\modules\\slotmem\\mod_slotmem_shm.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 16, \"numAT_avg\": 8.00000, \"time\": 721700, \"pendingSchemaProportion\": 0.68950}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

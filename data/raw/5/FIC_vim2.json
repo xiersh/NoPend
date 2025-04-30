@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 65,
+  "numAT_avg": 65.0,
+  "time": 1768900,
+  "pendingSchemaProportion": 0.453,
+  "start time": "2025-04-23 13:24:35",
+  "method": "FIC",
+  "subject": "bugs\\vim\\src\\ex_cmds.c",
+  "max_mfs": 1,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 65, \"numAT_avg\": 65.00000, \"time\": 1768900, \"pendingSchemaProportion\": 0.45300}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

@@ -1,0 +1,5 @@
+parameter,name
+0,FiconvSupport
+1,HAVE_XOUTPUT_METHOD
+2,HAVE_BIDI
+3,FLOCALE_DEBUG_CHARSET

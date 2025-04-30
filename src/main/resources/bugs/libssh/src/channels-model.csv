@@ -1,0 +1,4 @@
+parameter,name
+0,_WIN32
+1,WITH_SERVER
+2,WITH_SSH1

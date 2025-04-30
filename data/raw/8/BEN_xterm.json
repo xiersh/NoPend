@@ -1,0 +1,6 @@
+{
+  "status": "timeout",
+  "method": "BEN",
+  "subject": "bugs\\xterm\\main.c",
+  "timeout": true
+}

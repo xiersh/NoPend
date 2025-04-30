@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 0.66667,
+  "f1": 0.8,
+  "numAT": 119,
+  "numAT_avg": 23.8,
+  "time": 8738200,
+  "pendingSchemaProportion": 0.6782,
+  "start time": "2025-04-23 13:48:36",
+  "method": "FICBS",
+  "subject": "bugs\\xterm\\main.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 0.66667, \"f1\": 0.80000, \"numAT\": 119, \"numAT_avg\": 23.80000, \"time\": 8738200, \"pendingSchemaProportion\": 0.67820}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

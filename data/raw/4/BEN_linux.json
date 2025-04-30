@@ -1,0 +1,17 @@
+{
+  "precision": 0.0001,
+  "recall": 1.0,
+  "f1": 0.0002,
+  "numAT": 3387,
+  "numAT_avg": 84.675,
+  "time": 113588749200,
+  "start time": "2025-04-23 13:02:09",
+  "method": "BEN",
+  "subject": "bugs\\linux\\init\\main.c",
+  "max_mfs": 5,
+  "status": "success",
+  "stdout": "{\"precision\": 0.00010, \"recall\": 1.00000, \"f1\": 0.00020, \"numAT\": 3387, \"numAT_avg\": 84.67500, \"time\": 113588749200}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

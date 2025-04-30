@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 144,
+  "numAT_avg": 144.0,
+  "time": 5472100,
+  "pendingSchemaProportion": 0.521,
+  "start time": "2025-04-23 15:10:29",
+  "method": "FIC",
+  "subject": "bugs\\bash\\support\\getcppsyms.c",
+  "max_mfs": 1,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 144, \"numAT_avg\": 144.00000, \"time\": 5472100, \"pendingSchemaProportion\": 0.52100}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

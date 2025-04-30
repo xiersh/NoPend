@@ -1,0 +1,5 @@
+parameter,name
+0,DRM_I915
+1,SHMEM
+2,CONFIG_PNP
+3,TMPFS

@@ -1,0 +1,18 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "numAT": 599,
+  "numAT_avg": 14.975,
+  "time": 3651700,
+  "pendingSchemaProportion": 0.76052,
+  "start time": "2025-04-23 13:48:35",
+  "method": "FICBS",
+  "subject": "bugs\\linux\\init\\main.c",
+  "max_mfs": 5,
+  "status": "success",
+  "stdout": "{\"precision\": 1.00000, \"recall\": 1.00000, \"f1\": 1.00000, \"numAT\": 599, \"numAT_avg\": 14.97500, \"time\": 3651700, \"pendingSchemaProportion\": 0.76052}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

@@ -1,0 +1,17 @@
+{
+  "precision": 0.06667,
+  "recall": 1.0,
+  "f1": 0.125,
+  "numAT": 108,
+  "numAT_avg": 27.0,
+  "time": 907129100,
+  "start time": "2025-04-23 11:46:25",
+  "method": "BEN",
+  "subject": "bugs\\vim\\src\\netbeans.c",
+  "max_mfs": 4,
+  "status": "success",
+  "stdout": "{\"precision\": 0.06667, \"recall\": 1.00000, \"f1\": 0.12500, \"numAT\": 108, \"numAT_avg\": 27.00000, \"time\": 907129100}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

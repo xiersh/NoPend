@@ -1,0 +1,13 @@
+parameter,name
+0,SASC
+1,MIPSEB
+2,AMIGA
+3,__sgi
+4,NO_ARP
+5,UNIX
+6,SVR4
+7,_SEQUENT_
+8,MIPS
+9,m88k
+10,MSDOS
+11,SCO

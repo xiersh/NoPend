@@ -1,0 +1,18 @@
+{
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1": 0.5,
+  "numAT": 94,
+  "numAT_avg": 47.0,
+  "time": 2751500,
+  "pendingSchemaProportion": 0.3745,
+  "start time": "2025-04-23 11:44:23",
+  "method": "SOFOT",
+  "subject": "bugs\\bash\\execute_cmd.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 0.50000, \"recall\": 0.50000, \"f1\": 0.50000, \"numAT\": 94, \"numAT_avg\": 47.00000, \"time\": 2751500, \"pendingSchemaProportion\": 0.37450}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}

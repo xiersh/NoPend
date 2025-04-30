@@ -1,0 +1,4 @@
+parameter,name
+0,APR_HAS_UNICODE_FS
+1,WIN32
+2,APR_HAS_ANSI_FS

@@ -1,0 +1,17 @@
+{
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1": 0.57143,
+  "numAT": 122,
+  "numAT_avg": 61.0,
+  "time": 462177200,
+  "start time": "2025-04-23 11:21:47",
+  "method": "BEN",
+  "subject": "bugs\\bash\\execute_cmd.c",
+  "max_mfs": 2,
+  "status": "success",
+  "stdout": "{\"precision\": 0.40000, \"recall\": 1.00000, \"f1\": 0.57143, \"numAT\": 122, \"numAT_avg\": 61.00000, \"time\": 462177200}\n",
+  "stderr": "",
+  "timeout limit": "600s",
+  "memory limit": "1G"
+}
